@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title') | {{env('APP_NAME')}}</title>
     <link rel="icon" href="{{asset('setting/'.$setting->logo)}}"/>
-    <meta name="facebook-domain-verification" content="ieyemwwciplmb8zl8f4n32ghwihek7" />
+    <meta name="facebook-domain-verification" content="yowovq4nz231o35tawk1l8syb3alz9" />
     <!-- Pavicon ICon -->
     @include('frontend.v-2.includes.style')
     <!-- Dynamic Theme Colors -->
